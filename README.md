@@ -64,7 +64,7 @@ Abra o terminal do seu Kali Linux e copie e cole a sequência de comandos abaixo
 
 ```bash
 # 1. Clone o repositório para sua máquina local
-git clone https://github.com
+git clone https://github.com/DoisPredoBeibe13/kalibrotmi-.git
 
 # 2. Acesse o diretório do projeto
 cd kalibrotmi-
